@@ -8,4 +8,4 @@ If you need anything else, you can use [Google](https://www.google.com)
 
 ![Us working on the awesome page](/gps1.1screenshot.png)
 
-other_code
+some_code
